@@ -61,3 +61,9 @@ Live has major on love.
 Live has major on source.
 
 Live has major on feel.
+
+Tier 3 Live is Sera.
+
+Tier 2 Live is Alan.
+
+Tier 1 Live is Oran.
