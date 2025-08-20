@@ -58,7 +58,7 @@ Live has major on self.
 
 Live has major on love.
 
-Live has major on source.
+Live has major on sour.
 
 Live has major on feel.
 
