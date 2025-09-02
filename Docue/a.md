@@ -63,3 +63,5 @@ Live has major on sour.
 Live has major on feel.
 
 LIVE is FEEL MOD.
+
+LIVE meaning is not tagged with the existence of FEEL.
