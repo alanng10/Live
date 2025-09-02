@@ -64,4 +64,8 @@ Live has major on feel.
 
 LIVE is FEEL MOD.
 
+live meaning is not tagged with the existence of feel.
+
+Live meaning is not tagged with the existence of Feel.
+
 LIVE meaning is not tagged with the existence of FEEL.
