@@ -78,5 +78,5 @@ Live word has spell.
 The spell is:
 "L" is for Love Park.
 "i" is for inter seer.
-"v" is for view arch.
+"v" is for vary time.
 "e" is for emit feel.
