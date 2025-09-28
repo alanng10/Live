@@ -80,3 +80,11 @@ The spell is:
 "i" is for inter seer.
 "v" is for vary time.
 "e" is for emit feel.
+
+Tier Live has park word.
+
+Tier 1 Live word is "Oran".
+
+Tier 2 Live word is "Alla".
+
+Tier 3 Live word is "Sera".
