@@ -85,6 +85,6 @@ Tier Live has park word.
 
 Tier 1 Live word is "Oran".
 
-Tier 2 Live word is "Alla".
+Tier 2 Live word is "Naku".
 
 Tier 3 Live word is "Sera".
