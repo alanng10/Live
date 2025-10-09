@@ -77,9 +77,9 @@ LIVE meaning is not tagged with the existence of FEEL.
 Live word has spell.
 The spell is:
 "L" is for Live Super.
-"i" is for inter seer.
-"v" is for vary time.
-"e" is for emit feel.
+"i" is for inter class.
+"v" is for vary life.
+"e" is for emit gain.
 
 Live word has spell.
 The spell is:
